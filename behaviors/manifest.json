@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Lords Of The Realm Behaviors",
+    "description": "Village management",
+    "uuid": "7058bd24-3c3d-4ae8-921d-6fde39e1a26f",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for Lords Of The Realm",
+      "type": "client_data",
+      "uuid": "eabdac1b-6b72-48ef-957b-eeb068f51be6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

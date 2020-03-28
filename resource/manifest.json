@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Lords Of The Realm Resource Pack",
+      "name": "Lords Of The Realm Resource Pack",
+      "uuid": "59f17290-fe6e-4b24-83e9-c84d8d88899b",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+      {
+        "description": "Lords Of The Realm Resource Pack",
+        "type": "resources",
+        "uuid": "8bb2e613-0b76-4def-9075-38e81a28a064",
+        "version": [1, 0, 0]
+      }
+    ]
+  }
